@@ -1,5 +1,7 @@
 ## env-replace
 
+[![Build status](https://ci.appveyor.com/api/projects/status/i2i970v5aekca82f?svg=true)](https://ci.appveyor.com/project/nicompte/env-replace)
+
 `env-replace` is a Q&D tool that replaces patterns found in files by environment variable values.
 
 For example, for the given conf.yaml file:

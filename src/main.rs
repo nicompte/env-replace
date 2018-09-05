@@ -1,6 +1,7 @@
 extern crate colored;
 extern crate dotenv;
 extern crate regex;
+#[macro_use]
 extern crate structopt;
 
 use colored::*;
